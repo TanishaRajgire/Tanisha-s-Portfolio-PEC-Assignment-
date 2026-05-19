@@ -1,0 +1,16 @@
+.Portfolio {
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.PastEducation {
+    background-color: rgb(96, 208, 26);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Goals { 
+    background-color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.MyInterestsAndLikes {
+    background-color: firebrick;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
